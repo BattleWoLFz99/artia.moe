@@ -1,0 +1,41 @@
+{
+  "site": {
+    "title": "Artia Button",
+    "description": "Brand-new voice buttons for Artia.\n",
+    "index": "Home",
+    "links": "Links",
+    "about": "About",
+    "switch_dark_mode": "Switch Dark Mode",
+    "switch_language": "Switch Language",
+    "footer": {
+      "BattleWoLFz": "BattleWoLFz",
+      "oruyanke": "ArtiaDBZ",
+      "content": "Constructed by ArtiaDBZ. For staff and more information, please see \"About\" page."
+    }
+  },
+  "live": {
+    "activity": "阿媂娅Artia",
+    "schedule": "",
+    "on_air": "",
+    "loading": "",
+    "no_schedule": "",
+    "notification": "     Mar.06.2020 - Nov.19.2020"
+  },
+  "control": {
+    "self": "Player Control",
+    "pick_one": "Randomly Pick One",
+    "stop": "Stop Playing",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "overlap": "Overlap Mode",
+    "random": "Random Mode",
+    "repeat": "Repeat Mode",
+    "full_name": "Artia",
+    "overlap_title": "Multiple Artia Voices"
+  },
+  "dev": {
+    "title": "",
+    "desc": "",
+    "to_stable": ""
+  }
+}

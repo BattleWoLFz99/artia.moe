@@ -1,0 +1,1503 @@
+{
+  "groups": [
+      {
+          "group_name": "❄️ 媂语 ❄️",
+          "group_description": {
+              "zh": "❄️ 媂语 ❄️",
+              "ja": "❄️ 媂语 ❄️",
+              "en": "❄️ Artia ❄️"
+          },
+          "voice_list": [
+              {
+                  "name": "Artia_-_Meow_Meow_Meow",
+                  "path": "Artia_-_Meow_Meow_Meow.mp3",
+                  "description": {
+                      "zh": "喵",
+                      "ja": "喵",
+                      "en": "Meow"
+                  }
+              },
+              {
+                  "name": "meow",
+                  "path": "meow.mp3",
+                  "description": {
+                      "zh": "喵喵喵",
+                      "ja": "喵喵喵",
+                      "en": "Meow Meow Meow"
+                  }
+              },
+              {
+                  "name": "meowmeow",
+                  "path": "meowmeow.mp3",
+                  "description": {
+                      "zh": "喵喵喵(超凶)",
+                      "ja": "喵喵喵(超凶)",
+                      "en": "Meow Meow Meow(Angry)"
+                  }
+              },
+          {
+              "name": "hehe",
+              "path": "hehe.mp3",
+              "description": {
+                  "zh": "嘿嘿",
+                  "ja": "1",
+                  "en": "Sneer"
+              }
+          },
+          {
+              "name": "1-12",
+              "path": "1-12.mp3",
+              "description": {
+                  "zh": "啊",
+                  "ja": "1",
+                  "en": "Alas"
+              }
+          },
+          {
+              "name": "naisu1",
+              "path": "naisu1.mp3",
+              "description": {
+                  "zh": "奶酥1",
+                  "ja": "1",
+                  "en": "Naisu 1"
+              }
+          },
+          {
+              "name": "naisu2",
+              "path": "naisu2.mp3",
+              "description": {
+                  "zh": "奶酥2",
+                  "ja": "1",
+                  "en": "Naisu 2"
+              }
+          },
+          {
+              "name": "naisu3",
+              "path": "naisu3.mp3",
+              "description": {
+                  "zh": "奶酥3",
+                  "ja": "1",
+                  "en": "Naisu 3"
+              }
+          },
+          {
+              "name": "naisu4",
+              "path": "naisu4.mp3",
+              "description": {
+                  "zh": "奶酥4",
+                  "ja": "1",
+                  "en": "Naisu 4"
+              }
+          },
+          {
+              "name": "naisu7",
+              "path": "naisu7.mp3",
+              "description": {
+                  "zh": "奶酥5",
+                  "ja": "1",
+                  "en": "Naisu 5"
+              }
+          },
+          {
+              "name": "naisu5",
+              "path": "naisu5.mp3",
+              "description": {
+                  "zh": "奶酥?",
+                  "ja": "1",
+                  "en": "Naisu?"
+              }
+          },
+          {
+              "name": "naisu6",
+              "path": "naisu6.mp3",
+              "description": {
+                  "zh": "奶酥!",
+                  "ja": "1",
+                  "en": "Naisu!"
+              }
+          },
+          {
+              "name": "1-6",
+              "path": "1-6.mp3",
+              "description": {
+                  "zh": "擦盘子1",
+                  "ja": "1",
+                  "en": "Smirk 1"
+              }
+          },
+          {
+              "name": "1-17",
+              "path": "1-17.mp3",
+              "description": {
+                  "zh": "擦盘子2",
+                  "ja": "1",
+                  "en": "Smirk 1"
+              }
+          },
+          {
+              "name": "rua1",
+              "path": "rua1.mp3",
+              "description": {
+                  "zh": "Rua 1",
+                  "ja": "1",
+                  "en": "Rawr 1"
+              }
+          },
+          {
+              "name": "rua2",
+              "path": "ruarua.mp3",
+              "description": {
+                  "zh": "Rua 2",
+                  "ja": "1",
+                  "en": "Rawr 2"
+              }
+          },
+          {
+              "name": "bendan1",
+              "path": "400.mp3",
+              "description": {
+                  "zh": "笨蛋1",
+                  "ja": "1",
+                  "en": "Simp 1"
+              }
+          },
+          {
+              "name": "bendan2",
+              "path": "bendan.mp3",
+              "description": {
+                  "zh": "笨蛋2",
+                  "ja": "1",
+                  "en": "Simp 2"
+              }
+          },
+          {
+              "name": "bendan3",
+              "path": "bendan2.mp3",
+              "description": {
+                  "zh": "笨蛋3",
+                  "ja": "1",
+                  "en": "Simp 3"
+              }
+          },
+          {
+              "name": "ILoveYouKiuKiu",
+              "path": "ILoveYouKiuKiu.mp3",
+              "description": {
+                  "zh": "I Love You 啾啾",
+                  "ja": "1",
+                  "en": "I Love You, Tweeted"
+              }
+          },
+          {
+              "name": "sleepy",
+              "path": "sleepy.mp3",
+              "description": {
+                  "zh": "睡眼惺忪的媂娅",
+                  "ja": "1",
+                  "en": "Sleepy"
+              }
+          },
+          {
+              "name": "abaabaabaaba",
+              "path": "abaabaabaaba.mp3",
+              "description": {
+                  "zh": "阿巴阿巴",
+                  "ja": "1",
+                  "en": "Aba Aba"
+              }
+          },
+          {
+              "name": "abuabu",
+              "path": "abuabu.mp3",
+              "description": {
+                  "zh": "阿布阿布",
+                  "ja": "1",
+                  "en": "Abu Abu"
+              }
+          },
+          {
+              "name": "1-8",
+              "path": "1-8.mp3",
+              "description": {
+                  "zh": "喃喃",
+                  "ja": "1",
+                  "en": "Mumble"
+              }
+          },
+          {
+              "name": "bukebukebu",
+              "path": "bukebukebu.mp3",
+              "description": {
+                  "zh": "布可布可布",
+                  "ja": "1",
+                  "en": "bukebukebu"
+              }
+          },
+          {
+              "name": "Wahhhhh",
+              "path": "Artia_-_Wahhhhh.mp3",
+              "description": {
+                  "zh": "哇",
+                  "ja": "1",
+                  "en": "Wahhhhh"
+              }
+          },
+          {
+              "name": "yell1",
+              "path": "yell1.mp3",
+              "description": {
+                  "zh": "耳膜去世1",
+                  "ja": "1",
+                  "en": "Yell 1"
+              }
+          },
+          {
+              "name": "yell2",
+              "path": "yell2.mp3",
+              "description": {
+                  "zh": "耳膜去世2",
+                  "ja": "1",
+                  "en": "Yell 2"
+              }
+          },
+          {
+              "name": "1-3",
+              "path": "1-3.mp3",
+              "description": {
+                  "zh": "耳膜去世3",
+                  "ja": "1",
+                  "en": "Yell 3"
+              }
+          },
+          {
+              "name": "1-9",
+              "path": "1-9.mp3",
+              "description": {
+                  "zh": "耳膜去世4",
+                  "ja": "1",
+                  "en": "Yell 4"
+              }
+          },
+          {
+              "name": "1-18",
+              "path": "1-18.mp3",
+              "description": {
+                  "zh": "耳膜去世5",
+                  "ja": "1",
+                  "en": "Yell 5"
+              }
+          },
+          {
+              "name": "Fukubi",
+              "path": "399.mp3",
+              "description": {
+                  "zh": "Fubuki",
+                  "ja": "1",
+                  "en": "Fubuki"
+              }
+          },
+          {
+              "name": "kiukiumaomao",
+              "path": "kiukiumaomao.mp3",
+              "description": {
+                  "zh": "啾啾猫猫",
+                  "ja": "1",
+                  "en": "Tweeted"
+              }
+          }
+
+             
+
+          ]
+      },
+      {
+          "group_name": "❄️ English ❄️",
+          "group_description": {
+              "zh": "❄️ English ❄️",
+              "ja": "❄️ English ❄️",
+              "en": "❄️ English ❄️"
+          },
+          "voice_list": [
+              {
+                  "name": "Im_Yagoo_Cute_Asian_Girl",
+                  "path": "Im_Yagoo_Cute_Asian_Girl.mp3",
+                  "description": {
+                      "zh": "我是Yagoo可爱亚洲女孩",
+                      "ja": "1",
+                      "en": "I'm Yagoo Cute_Asian Girl"
+                  }
+              },
+              {
+                  "name": "DontTellYagoo",
+                  "path": "Artia_-_Don'tTellYagooOkay.mp3",
+                  "description": {
+                      "zh": "不要告诉Yagoo",
+                      "ja": "1",
+                      "en": "Don't Tell Yagoo Okay"
+                  }
+              },
+              {
+                  "name": "Yagooshutup",
+                  "path": "Yagooshutup.mp3",
+                  "description": {
+                      "zh": "Yagoo闭嘴",
+                      "ja": "1",
+                      "en": "Yagoo shutup"
+                  }
+              },
+              {
+                  "name": "Artia_-_Hell_Yah_Brother",
+                  "path": "Artia_-_Hell_Yah_Brother.mp3",
+                  "description": {
+                      "zh": "你好哇",
+                      "ja": "1",
+                      "en": "Hell Yah Brother"
+                  }
+              },
+              {
+                  "name": "pee",
+                  "path": "pee.mp3",
+                  "description": {
+                      "zh": "干杯",
+                      "ja": "1",
+                      "en": "Pee"
+                  }
+              },
+              {
+                  "name": "angrypee",
+                  "path": "angrypee.mp3",
+                  "description": {
+                      "zh": "干杯(愤怒)",
+                      "ja": "1",
+                      "en": "Pee(Angry)"
+                  }
+              },
+              {
+                  "name": "BabyArtia",
+                  "path": "BabyArtia.mp3",
+                  "description": {
+                      "zh": "媂娅小时候",
+                      "ja": "1",
+                      "en": "Baby Artia"
+                  }
+              },
+              {
+                  "name": "ASMR",
+                  "path": "ASMR.mp3",
+                  "description": {
+                      "zh": "ASMR",
+                      "ja": "1",
+                      "en": "ASMR"
+                  }
+              },
+              {
+                  "name": "big_brain_strat",
+                  "path": "big_brain_strats.mp3",
+                  "description": {
+                      "zh": "大聪明",
+                      "ja": "1",
+                      "en": "Big Brain Strat"
+                  }
+              },
+              {
+                  "name": "canseefuture",
+                  "path": "canseefuture.mp3",
+                  "description": {
+                      "zh": "大预言家阿媂娅",
+                      "ja": "1",
+                      "en": "Prophet Artia"
+                  }
+              },
+              {
+                  "name": "IdolPretending",
+                  "path": "IdolPretending.mp3",
+                  "description": {
+                      "zh": "偶像大师阿媂娅",
+                      "ja": "1",
+                      "en": "Idol Artia"
+                  }
+              },
+              {
+                  "name": "doublekill",
+                  "path": "doublekill.mp3",
+                  "description": {
+                      "zh": "Double Kill",
+                      "ja": "1",
+                      "en": "Double Kill"
+                  }
+              },
+              {
+                  "name": "TripleKill",
+                  "path": "TripleKill.mp3",
+                  "description": {
+                      "zh": "Triple Kill",
+                      "ja": "1",
+                      "en": "Triple Kill"
+                  }
+              },
+              {
+                  "name": "QuadrupleKill",
+                  "path": "QuadrupleKill.mp3",
+                  "description": {
+                      "zh": "Quadruple Kill",
+                      "ja": "1",
+                      "en": "Quadruple Kill"
+                  }
+              },
+              {
+                  "name": "Artia_-_Dont_Be_Afraid_Cmon_Bruh",
+                  "path": "Artia_-_Dont_Be_Afraid_Cmon_Bruh.mp3",
+                  "description": {
+                      "zh": "不要怂",
+                      "ja": "1",
+                      "en": "Don't Be Afraid Cmon Bruh"
+                  }
+              },
+              {
+                  "name": "Artia_-_We_F_ck_Them",
+                  "path": "Artia_-_We_F_ck_Them.mp3",
+                  "description": {
+                      "zh": "就是干",
+                      "ja": "1",
+                      "en": "just Fuck them"
+                  }
+              },
+              {
+                  "name": "Artia_-_WTF",
+                  "path": "Artia_-_WTF.mp3",
+                  "description": {
+                      "zh": "WTF",
+                      "ja": "1",
+                      "en": "WTF"
+                  }
+              },
+              {
+                  "name": "HealMe",
+                  "path": "HealMe.mp3",
+                  "description": {
+                      "zh": "奶我奶我",
+                      "ja": "1",
+                      "en": "Heal Me"
+                  }
+              },
+              {
+                  "name": "ByeBaby",
+                  "path": "Artia_-_ByeBaby.mp3",
+                  "description": {
+                      "zh": "Bye Baby",
+                      "ja": "1",
+                      "en": "Bye Baby"
+                  }
+              },
+              {
+                  "name": "Die_Die_Die",
+                  "path": "Artia_-_Die_Die_Die.mp3",
+                  "description": {
+                      "zh": "Die Die Die",
+                      "ja": "1",
+                      "en": "Die Die Die"
+                  }
+              },
+              {
+                  "name": "I_Want_To_Touch_You",
+                  "path": "Artia_-_I_Want_To_Touch_You.mp3",
+                  "description": {
+                      "zh": "I Want To Touch You",
+                      "ja": "1",
+                      "en": "I Want To Touch You"
+                  }
+              },
+              {
+                  "name": "ImACatGirl",
+                  "path": "Artia_-_ImACatGirl.mp3",
+                  "description": {
+                      "zh": "媂娅是猫娘",
+                      "ja": "1",
+                      "en": "I'm a Cat Girl"
+                  }
+              },
+              {
+                  "name": "Artia_-_Lets_Go_Dude",
+                  "path": "Artia_-_Lets_Go_Dude.mp3",
+                  "description": {
+                      "zh": "Let's Go Dude",
+                      "ja": "1",
+                      "en": "Let's Go Dude"
+                  }
+              },
+
+              {
+                  "name": "OhNoNoNo",
+                  "path": "Artia_-_OhNoNoNo.mp3",
+                  "description": {
+                      "zh": "Oh No No No",
+                      "ja": "1",
+                      "en": "Oh No No No"
+                  }
+              },
+              {
+                  "name": "HoloEsportTeam",
+                  "path": "HoloEsportTeam.mp3",
+                  "description": {
+                      "zh": "Holo电竞队",
+                      "ja": "1",
+                      "en": "Holo Esport Team"
+                  }
+              },
+              {
+                  "name": "whyoyouusebraininavideogame",
+                  "path": "whyoyouusebraininavideogame.mp3",
+                  "description": {
+                      "zh": "为何要带脑子玩游戏",
+                      "ja": "1",
+                      "en": "Why do you must use your brain in a video game"
+                  }
+              },
+              {
+                  "name": "WhatisPMA",
+                  "path": "WhatisPMA.mp3",
+                  "description": {
+                      "zh": "什么是正能量",
+                      "ja": "1",
+                      "en": "What is PMA"
+                  }
+              },
+              {
+                  "name": "PMAStreamerDontYall",
+                  "path": "PMAStreamerDontYall.mp3",
+                  "description": {
+                      "zh": "正能量主播阿媂娅从不尖叫",
+                      "ja": "1",
+                      "en": "PMA Streamer Artia Never Yall"
+                  }
+              },
+              {
+                  "name": "AntiPretendingIodl",
+                  "path": "AntiPretendingIodl.mp3",
+                  "description": {
+                      "zh": "正能量主播阿媂娅从不愤怒",
+                      "ja": "1",
+                      "en": "PMA Streamer Artia Never Rage"
+                  }
+              },
+              {
+                  "name": "FIdidntsay",
+                  "path": "FIdidntsay.mp3",
+                  "description": {
+                      "zh": "假装清楚的阿媂娅",
+                      "ja": "1",
+                      "en": "I didn't say F"
+                  }
+              },
+              {
+                  "name": "ursimp",
+                  "path": "ursimp.mp3",
+                  "description": {
+                      "zh": "我感觉你是个笨蛋",
+                      "ja": "1",
+                      "en": "I think you are just simp"
+                  }
+              },                    
+              {
+                  "name": "noheitai",
+                  "path": "noheitai.mp3",
+                  "description": {
+                      "zh": "黑太禁止",
+                      "ja": "1",
+                      "en": "No heitai is allowed"
+                  }
+              },
+              {
+                  "name": "DontBeAPussy",
+                  "path": "DontBeAPussy.mp3",
+                  "description": {
+                      "zh": "上啊上啊",
+                      "ja": "1",
+                      "en": "Don't be a pussy"
+                  }
+              },
+              {
+                  "name": "mutemic",
+                  "path": "mutemic.mp3",
+                  "description": {
+                      "zh": "又忘关麦",
+                      "ja": "1",
+                      "en": "My mic was on"
+                  }
+              },
+              {
+                  "name": "PepegaSpam",
+                  "path": "PepegaSpam.mp3",
+                  "description": {
+                      "zh": "担心被Discord杀",
+                      "ja": "1",
+                      "en": "Pepega Spamer"
+                  }
+              },
+              {
+                  "name": "naenae",
+                  "path": "naenae.mp3",
+                  "description": {
+                      "zh": "Nae Nae",
+                      "ja": "1",
+                      "en": "Nae Nae"
+                  }
+              },
+              {
+                  "name": "MyManagerDoesNotKnowEnglish",
+                  "path": "MyManagerDoesNotKnowEnglish.mp3",
+                  "description": {
+                      "zh": "运营不会英语",
+                      "ja": "1",
+                      "en": "My manager doesn't know English"
+                  }
+              },
+              {
+                  "name": "NoMarbles",
+                  "path": "NoMarbles.mp3",
+                  "description": {
+                      "zh": "好好看媂娅打游戏啊啊",
+                      "ja": "1",
+                      "en": "No Marbles"
+                  }
+              },
+              {
+                  "name": "TrumpWater",
+                  "path": "TrumpWater.mp3",
+                  "description": {
+                      "zh": "特朗普之水",
+                      "ja": "1",
+                      "en": "Trump Water"
+                  }
+              },
+              {
+                  "name": "stupid",
+                  "path": "stupid.mp3",
+                  "description": {
+                      "zh": "太蠢了",
+                      "ja": "1",
+                      "en": "So stupid"
+                  }
+              },
+              {
+                  "name": "goodnight",
+                  "path": "goodnight.mp3",
+                  "description": {
+                      "zh": "晚安",
+                      "ja": "1",
+                      "en": "Good Night"
+                  }
+              },    
+              {
+                  "name": "byebye",
+                  "path": "byebye.mp3",
+                  "description": {
+                      "zh": "再见了",
+                      "ja": "1",
+                      "en": "Thank you for coming"
+                  }
+              },
+              {
+                  "name": "阿媂娅爱你哟",
+                  "path": "ArtiaLovesYou.mp3",
+                  "description": {
+                      "zh": "阿媂娅爱你哟",
+                      "ja": "1",
+                      "en": "Because Artia loves you guys"
+                  }
+              }
+
+             
+          ]
+
+      },
+
+      {
+          "group_name": "❄️ 可爱 ❄️",
+          "group_description": {
+              "zh": "❄️ 可爱 ❄️",
+              "ja": "❄️ 可爱 ❄️",
+              "en": "❄️ Cute ❄️"
+          },
+          "voice_list": [
+              {
+                  "name": "tututu",
+                  "path": "tututu.mp3",
+                  "description": {
+                      "zh": "突突突",
+                      "ja": "起床了",
+                      "en": "Tututu"
+                  }
+              },
+              {
+                  "name": "起床了",
+                  "path": "getup.mp3",
+                  "description": {
+                      "zh": "起床了",
+                      "ja": "起床了",
+                      "en": "起床了"
+                  }
+              },
+              {
+                  "name": "cute",
+                  "path": "cute.mp3",
+                  "description": {
+                      "zh": "我也觉得我很可爱",
+                      "ja": "我也觉得我很可爱",
+                      "en": "我也觉得我很可爱"
+                  }
+              },
+              {
+                  "name": "Master",
+                  "path": "Master.mp3",
+                  "description": {
+                      "zh": "你就是我的Master嘛",
+                      "ja": "1",
+                      "en": "I ask of you. Are you my master"
+                  }
+              },
+              {
+                  "name": "oniichan",
+                  "path": "oniichan.mp3",
+                  "description": {
+                      "zh": "欧尼酱 八嘎 黑太",
+                      "ja": "hentai",
+                      "en": "Onii chan Baka Hentai"
+                  }
+              },
+              {
+                  "name": "1-1",
+                  "path": "1-1.mp3",
+                  "description": {
+                      "zh": "你要干嘛",
+                      "ja": "1",
+                      "en": "你要干嘛"
+                  }
+              },
+              {
+                  "name": "dontcomein",
+                  "path": "dontcomein.mp3",
+                  "description": {
+                      "zh": "不要过来",
+                      "ja": "1",
+                      "en": "不要过来"
+                  }
+              },
+              {
+                  "name": "1-20",
+                  "path": "1-20.mp3",
+                  "description": {
+                      "zh": "不要睡我",
+                      "ja": "1",
+                      "en": "不要睡我"
+                  }
+              },
+              {
+                  "name": "1-19",
+                  "path": "1-19.mp3",
+                  "description": {
+                      "zh": "媂媂不喜欢",
+                      "ja": "1",
+                      "en": "媂媂不喜欢"
+                  }
+              },
+              {
+                  "name": "dededong",
+                  "path": "dededong.mp3",
+                  "description": {
+                      "zh": "噔噔咚",
+                      "ja": "1",
+                      "en": "Complacent"
+                  }
+              },
+              {
+                  "name": "520-5",
+                  "path": "520-5.mp3",
+                  "description": {
+                      "zh": "吼啦迷迭吼啦哟",
+                      "ja": "1",
+                      "en": "Inugami Korone"
+                  }
+              },
+              {
+                  "name": "bangbang",
+                  "path": "bangbang.mp3",
+                  "description": {
+                      "zh": "棒棒",
+                      "ja": "1",
+                      "en": "棒棒"
+                  }
+              },
+              {
+                  "name": "你也想要头像嘛",
+                  "path": "401.mp3",
+                  "description": {
+                      "zh": "你也想要头像嘛",
+                      "ja": "1",
+                      "en": "你也想要头像嘛"
+                  }
+              },
+              {
+                  "name": "whatisthatmelody",
+                  "path": "whatisthatmelody.mp3",
+                  "description": {
+                      "zh": "What is the melody",
+                      "ja": "1",
+                      "en": "What is the melody"
+                  }
+              },
+              {
+                  "name": "1-4",
+                  "path": "1-4.mp3",
+                  "description": {
+                      "zh": "妈妈接我",
+                      "ja": "1",
+                      "en": "妈妈接我"
+                  }
+              },
+              {
+                  "name": "1-5-2",
+                  "path": "1-5-2.mp3",
+                  "description": {
+                      "zh": "妈妈奶我",
+                      "ja": "1",
+                      "en": "妈妈奶我"
+                  }
+              },
+              {
+                  "name": "1-21",
+                  "path": "1-21.mp3",
+                  "description": {
+                      "zh": "妈妈奶我(大声)",
+                      "ja": "1",
+                      "en": "妈妈奶我(大声)"
+                  }
+              },
+              {
+                  "name": "1-5-1",
+                  "path": "1-5-1.mp3",
+                  "description": {
+                      "zh": "给我吃",
+                      "ja": "1",
+                      "en": "给我吃"
+                  }
+              },
+              {
+                  "name": "Yawn",
+                  "path": "Yawn1.mp3",
+                  "description": {
+                      "zh": "打哈欠",
+                      "ja": "打哈欠",
+                      "en": "Yawn 1"
+                  }
+              },
+              {
+                  "name": "Yawn2",
+                  "path": "Yawn2.mp3",
+                  "description": {
+                      "zh": "打哈欠2",
+                      "ja": "打哈欠2",
+                      "en": "Yawn 2"
+                  }
+              },
+              {
+                  "name": "bakabaka",
+                  "path": "baka.mp3",
+                  "description": {
+                      "zh": "BakaBaka 1",
+                      "ja": "1",
+                      "en": "BakaBaka 1"
+                  }
+              },
+              {
+                  "name": "bakabakabaka",
+                  "path": "Artia_-_Baka_BAKA.mp3",
+                  "description": {
+                      "zh": "BakaBaka 2",
+                      "ja": "1",
+                      "en": "BakaBaka 2"
+                  }
+              },
+              {
+                  "name": "Artia_-_Baka_Hentai_Urusai",
+                  "path": "Artia_-_Baka_Hentai_Urusai.mp3",
+                  "description": {
+                      "zh": "八嘎 黑太 无路赛",
+                      "ja": "1",
+                      "en": "Baka Hentai Urusai"
+                  }
+              },
+              {
+                  "name": "1-15",
+                  "path": "1-15.mp3",
+                  "description": {
+                      "zh": "死了吧笨蛋哼",
+                      "ja": "1",
+                      "en": "死了吧笨蛋哼"
+                  }
+              },
+              {
+                  "name": "artiasimp",
+                  "path": "artiasimp.mp3",
+                  "description": {
+                      "zh": "阿媂娅是笨蛋",
+                      "ja": "1",
+                      "en": "阿媂娅是笨蛋"
+                  }
+              },
+              {
+                  "name": "taoyan",
+                  "path": "taoyan.mp3",
+                  "description": {
+                      "zh": "讨厌",
+                      "ja": "1",
+                      "en": "讨厌"
+                  }
+              },
+              {
+                  "name": "imthebest",
+                  "path": "imthebest.mp3",
+                  "description": {
+                      "zh": "本小姐世界最强",
+                      "ja": "1",
+                      "en": "本小姐世界最强"
+                  }
+              },
+              {
+                  "name": "nobaka",
+                  "path": "nobaka.mp3",
+                  "description": {
+                      "zh": "讨厌 八嘎",
+                      "ja": "1",
+                      "en": "讨厌 八嘎"
+                  }
+              },
+              {
+                  "name": "Iamout",
+                  "path": "Iamout.mp3",
+                  "description": {
+                      "zh": "没子弹了",
+                      "ja": "1",
+                      "en": "没子弹了"
+                  }
+              },
+              {
+                  "name": "mama",
+                  "path": "mama.mp3",
+                  "description": {
+                      "zh": "呀妈妈",
+                      "ja": "1",
+                      "en": "Pow"
+                  }
+              },
+              {
+                  "name": "1-16",
+                  "path": "1-16.mp3",
+                  "description": {
+                      "zh": "你干嘛疼疼",
+                      "ja": "1",
+                      "en": "你干嘛疼疼"
+                  }
+              },
+              {
+                  "name": "hurt",
+                  "path": "hurt.mp3",
+                  "description": {
+                      "zh": "好痛啊",
+                      "ja": "1",
+                      "en": "好痛啊"
+                  }
+              },
+              {
+                  "name": "Youkawaii3",
+                  "path": "Youkawaii3.mp3",
+                  "description": {
+                      "zh": "好可爱啊",
+                      "ja": "1",
+                      "en": "好可爱啊"
+                  }
+              },
+              {
+                  "name": "Youkawaii2",
+                  "path": "Youkawaii2.mp3",
+                  "description": {
+                      "zh": "欺负你们好开心啊",
+                      "ja": "欺负你们好开心啊",
+                      "en": "欺负你们好开心啊"
+                  }
+              },
+              {
+                  "name": "youkindergarten",
+                  "path": "youkindergarten.mp3",
+                  "description": {
+                      "zh": "你才是幼儿园",
+                      "ja": "你才是幼儿园",
+                      "en": "你才是幼儿园"
+                  }
+              },
+              {
+                  "name": "waitingforyou",
+                  "path": "waitingforyou.mp3",
+                  "description": {
+                      "zh": "等着你",
+                      "ja": "等着你",
+                      "en": "等着你"
+                  }
+              },
+              {
+                  "name": "tuturu",
+                  "path": "tuturu.mp3",
+                  "description": {
+                      "zh": "Tuturu",
+                      "ja": "Tuturu",
+                      "en": "Tuturu"
+                  }
+              },
+              {
+                  "name": "letusgobaby",
+                  "path": "letusgobaby.mp3",
+                  "description": {
+                      "zh": "Let's go baby",
+                      "ja": "1",
+                      "en": "Let's go baby"
+                  }
+              },
+              {
+                  "name": "top500",
+                  "path": "top500.mp3",
+                  "description": {
+                      "zh": "OW500强阿媂娅",
+                      "ja": "1",
+                      "en": "OW Top 500"
+                  }
+              }            
+          ]
+      },
+
+
+
+
+      {
+          "group_name": "other",
+          "group_description": {
+              "zh": "❄️ 其他 ❄️",
+              "ja": "その他",
+              "en": "❄️ Other ❄️"
+          },
+          "voice_list": [
+              {
+                  "name": "grass",
+                  "path": "grass.mp3",
+                  "description": {
+                      "zh": "草",
+                      "ja": "草",
+                      "en": "草"
+                  }
+              },
+              {
+                  "name": "怕不是个哈包",
+                  "path": "habao.mp3",
+                  "description": {
+                      "zh": "怕不是个哈包",
+                      "ja": "怕不是个哈包",
+                      "en": "怕不是个哈包"
+                  }
+              },
+              {
+                  "name": "好人一生平安",
+                  "path": "600.mp3",
+                  "description": {
+                      "zh": "好人一生平安",
+                      "ja": "好人一生平安",
+                      "en": "好人一生平安"
+                  }
+              },
+              {
+                  "name": "别叫媂娅吧主了",
+                  "path": "bazhu.mp3",
+                  "description": {
+                      "zh": "别叫媂娅吧主了",
+                      "ja": "别叫媂娅吧主了",
+                      "en": "别叫媂娅吧主了"
+                  }
+              },
+              {
+                  "name": "阿媂娅可以是吧主",
+                  "path": "602.mp3",
+                  "description": {
+                      "zh": "阿媂娅可以也是吧主",
+                      "ja": "阿媂娅可以也是吧主",
+                      "en": "阿媂娅可以也是吧主"
+                  }
+              },
+              {
+                  "name": "媂吧出征寸草不生",
+                  "path": "603.mp3",
+                  "description": {
+                      "zh": "媂吧出征寸草不生",
+                      "ja": "媂吧出征寸草不生",
+                      "en": "媂吧出征寸草不生"
+                  }
+              },
+              {
+                  "name": "懂得都懂",
+                  "path": "606.mp3",
+                  "description": {
+                      "zh": "懂得都懂",
+                      "ja": "懂得都懂",
+                      "en": "懂得都懂"
+                  }
+              },
+              {
+                  "name": "azhe",
+                  "path": "azhe.mp3",
+                  "description": {
+                      "zh": "啊这",
+                      "ja": "啊这",
+                      "en": "啊这"
+                  }
+              },
+              {
+                  "name": "sorrysorrysorry",
+                  "path": "sorrysorrysorry.mp3",
+                  "description": {
+                      "zh": "对不起对不起对不起",
+                      "ja": "对不起对不起对不起",
+                      "en": "对不起对不起对不起"
+                  }
+              },
+              {
+                  "name": "网上冲浪好玩",
+                  "path": "605.mp3",
+                  "description": {
+                      "zh": "网上冲浪好玩",
+                      "ja": "网上冲浪好玩",
+                      "en": "网上冲浪好玩"
+                  }
+              },
+              {
+                  "name": "阿媂娅才没有错呢",
+                  "path": "599.mp3",
+                  "description": {
+                      "zh": "阿媂娅才没有错呢",
+                      "ja": "阿媂娅才没有错呢",
+                      "en": "阿媂娅才没有错呢"
+                  }
+              },
+              {
+                  "name": "1-7",
+                  "path": "1-7.mp3",
+                  "description": {
+                      "zh": "干他",
+                      "ja": "干他",
+                      "en": "干他"
+                  }
+              },
+              {
+                  "name": "ganta",
+                  "path": "ganta.mp3",
+                  "description": {
+                      "zh": "干他！！",
+                      "ja": "干他！！",
+                      "en": "干他！！"
+                  }
+              },
+              {
+                  "name": "这男朋友不行",
+                  "path": "bfnotgood.mp3",
+                  "description": {
+                      "zh": "这男朋友不行",
+                      "ja": "这男朋友不行",
+                      "en": "这男朋友不行"
+                  }
+              },
+              {
+                  "name": "suan1",
+                  "path": "suan1.mp3",
+                  "description": {
+                      "zh": "这怎么酸了",
+                      "ja": "这怎么酸了",
+                      "en": "这怎么酸了"
+                  }
+              },
+              {
+                  "name": "suan2",
+                  "path": "suan2.mp3",
+                  "description": {
+                      "zh": "还说我憨",
+                      "ja": "还说我憨",
+                      "en": "还说我憨"
+                  }
+              },
+              {
+                  "name": "299",
+                  "path": "299.mp3",
+                  "description": {
+                      "zh": "被唯一女爸爸说傻的媂娅",
+                      "ja": "被唯一女爸爸说傻的媂娅",
+                      "en": "被唯一女爸爸说傻的媂娅"
+                  }
+              },
+              {
+                  "name": "什么唯一女粉",
+                  "path": "nvfen.mp3",
+                  "description": {
+                      "zh": "什么唯一女粉",
+                      "ja": "什么唯一女粉",
+                      "en": "什么唯一女粉"
+                  }
+              },
+              {
+                  "name": "德玛西亚人在塔在",
+                  "path": "5.29-1.mp3",
+                  "description": {
+                      "zh": "德玛西亚人在塔在",
+                      "ja": "德玛西亚人在塔在",
+                      "en": "德玛西亚人在塔在"
+                  }
+              },
+              {
+                  "name": "师傅别念了",
+                  "path": "5.29-2.mp3",
+                  "description": {
+                      "zh": "师傅别念了",
+                      "ja": "师傅别念了",
+                      "en": "师傅别念了"
+                  }
+              },
+              {
+                  "name": "1-11",
+                  "path": "1-11.mp3",
+                  "description": {
+                      "zh": "这个人对着我脸上射",
+                      "ja": "这个人对着我脸上射",
+                      "en": "这个人对着我脸上射"
+                  }
+              },
+              {
+                  "name": "yougood",
+                  "path": "yougood.mp3",
+                  "description": {
+                      "zh": "侬脑子瓦塔啦",
+                      "ja": "侬脑子瓦塔啦",
+                      "en": "侬脑子瓦塔啦"
+                  }
+              },
+              {
+                  "name": "1-14",
+                  "path": "1-14.mp3",
+                  "description": {
+                      "zh": "水之呼吸阿媂娅",
+                      "ja": "水之呼吸阿媂娅",
+                      "en": "水之呼吸阿媂娅"
+                  }
+              },
+              {
+                  "name": "1-13",
+                  "path": "1-13.mp3",
+                  "description": {
+                      "zh": "妈妈不要",
+                      "ja": "妈妈不要",
+                      "en": "妈妈不要?"
+                  }
+              },
+              {
+                  "name": "BloodPressure",
+                  "path": "BloodPressure.mp3",
+                  "description": {
+                      "zh": "我感觉我血压不行了",
+                      "ja": "我感觉我血压不行了",
+                      "en": "我感觉我血压不行了"
+                  }
+              },
+              {
+                  "name": "520-1",
+                  "path": "520-1.mp3",
+                  "description": {
+                      "zh": "在521被打自闭的媂娅",
+                      "ja": "在521被打自闭的媂娅",
+                      "en": "在521被打自闭的媂娅"
+                  }
+              },
+              {
+                  "name": "520-2",
+                  "path": "520-2.mp3",
+                  "description": {
+                      "zh": "但是你们开心就没关系",
+                      "ja": "但是你们开心就没关系",
+                      "en": "但是你们开心就没关系"
+                  }
+              },
+              {
+                  "name": "520-4",
+                  "path": "520-4.mp3",
+                  "description": {
+                      "zh": "觉得自己像大葱",
+                      "ja": "觉得自己像大葱",
+                      "en": "觉得自己像大葱"
+                  }
+              },
+              {
+                  "name": "200",
+                  "path": "200.mp3",
+                  "description": {
+                      "zh": "大家辛苦的样子真是太棒了呢",
+                      "ja": "大家辛苦的样子真是太棒了呢",
+                      "en": "大家辛苦的样子真是太棒了呢"
+                  }
+              },
+              {
+                  "name": "被队友演戏的媂娅",
+                  "path": "6.1-1.mp3",
+                  "description": {
+                      "zh": "被队友演戏的媂娅",
+                      "ja": "被队友演戏的媂娅",
+                      "en": "被队友演戏的媂娅"
+                  }
+              },
+              {
+                  "name": "被队友气炸的媂娅",
+                  "path": "6.1-2.mp3",
+                  "description": {
+                      "zh": "被队友气炸的媂娅",
+                      "ja": "被队友气炸的媂娅",
+                      "en": "被队友气炸的媂娅"
+                  }
+              },
+              {
+                  "name": "你们饭没了",
+                  "path": "6.1-4.mp3",
+                  "description": {
+                      "zh": "你们饭没了",
+                      "ja": "你们饭没了",
+                      "en": "你们饭没了"
+                  }
+              },
+              {
+                  "name": "媂氏大排档",
+                  "path": "ArtiasMidnightDiner.mp3",
+                  "description": {
+                      "zh": "媂氏大排档",
+                      "ja": "媂氏大排档",
+                      "en": "媂氏大排档"
+                  }
+              },
+              {
+                  "name": "20Youbaka",
+                  "path": "20Youbaka.mp3",
+                  "description": {
+                      "zh": "你们才是笨蛋",
+                      "ja": "你们才是笨蛋",
+                      "en": "你们才是笨蛋"
+                  }
+              },
+              {
+                  "name": "20Artiajiaonizhuinansheng",
+                  "path": "20Artiajiaonizhuinansheng.mp3",
+                  "description": {
+                      "zh": "媂娅教你追女孩子",
+                      "ja": "媂娅教你追女孩子",
+                      "en": "媂娅教你追女孩子"
+                  }
+              },
+              {
+                  "name": "fantag",
+                  "path": "199.mp3",
+                  "description": {
+                      "zh": "喜欢[大冰棒]对吧",
+                      "ja": "喜欢[大冰棒]对吧",
+                      "en": "喜欢[大冰棒]对吧"
+                  }
+              },
+              {
+                  "name": "strive",
+                  "path": "strive.mp3",
+                  "description": {
+                      "zh": "好好努力哦",
+                      "ja": "好好努力哦",
+                      "en": "好好努力哦"
+                  }
+              },
+              {
+                  "name": "GoldWillGlitter",
+                  "path": "GoldWillGlitter.mp3",
+                  "description": {
+                      "zh": "是金子总有一天会发光的",
+                      "ja": "是金子总有一天会发光的",
+                      "en": "是金子总有一天会发光的"
+                  }
+              },
+              {
+                  "name": "female",
+                  "path": "female.mp3",
+                  "description": {
+                      "zh": "女孩子也是哦",
+                      "ja": "女孩子也是哦",
+                      "en": "女孩子也是哦"
+                  }
+              },
+              {
+                  "name": "201",
+                  "path": "201.mp3",
+                  "description": {
+                      "zh": "最喜欢大家了",
+                      "ja": "最喜欢大家了",
+                      "en": "最喜欢大家了"
+                  }
+              },                
+              {
+                  "name": "88rua",
+                  "path": "88rua.mp3",
+                  "description": {
+                      "zh": "拜拜",
+                      "ja": "拜拜",
+                      "en": "拜拜"
+                  }
+              },
+              {
+                  "name": "IevanPolkka",
+                  "path": "IevanPolkka.mp3",
+                  "description": {
+                      "zh": "[甩葱歌]",
+                      "ja": "1",
+                      "en": "[Ievan Polkka]"
+                  }
+              },
+              {
+                  "name": "wananqu",
+                  "path": "wananqu.mp3",
+                  "description": {
+                      "zh": "[晚安曲]",
+                      "ja": "1",
+                      "en": "[Good Night]"
+                  }
+              },
+              {
+                  "name": "tanjironouta",
+                  "path": "tanjironouta.mp3",
+                  "description": {
+                      "zh": "[炭治郎之歌]",
+                      "ja": "1",
+                      "en": "[Kamado Tanjirou no uta]"
+                  }
+              },
+              {
+                  "name": "yuanfeng",
+                  "path": "yuanfeng.mp3",
+                  "description": {
+                      "zh": "[远枫]",
+                      "ja": "1",
+                      "en": "[Maple Wind]"
+                  }
+              }
+                  
+          ]
+      }
+
+      
+
+
+          
+      
+  ]
+}

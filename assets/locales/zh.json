@@ -1,0 +1,41 @@
+{
+  "site": {
+    "title": "阿媂娅按钮",
+    "description": "新版阿媂娅按钮哦！",
+    "index": "主页",
+    "links": "友情链接",
+    "about": "关于",
+    "switch_dark_mode": "夜间模式开关",
+    "switch_language": "切换语言",
+    "footer": {
+      "BattleWoLFz": "BattleWoLFz",
+      "oruyanke": "最后的大冰渣子组",
+      "content": "本站为大冰渣子组作品，和Hololive官方没有关联，STAFF名单以及项目参与方式请查看\"关于\"页面"
+    }
+  },
+  "live": {
+    "activity": "阿媂娅Artia",
+    "schedule": "",
+    "on_air": "",
+    "loading": "",
+    "no_schedule": "",
+    "notification": "Mar.06.2020 - Nov.19.2020"
+  },
+  "control": {
+    "self": "播放控制",
+    "pick_one": "帮我选一个",
+    "stop": "停止",
+    "enabled": "开启",
+    "disabled": "关闭",
+    "overlap": "重叠播放",
+    "random": "随机播放",
+    "repeat": "洗脑循环",
+    "full_name": "阿媂娅",
+    "overlap_title": "多重媂娅"
+  },
+  "dev": {
+    "title": "",
+    "desc": "",
+    "to_stable": ""
+  }
+}
