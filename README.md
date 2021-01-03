@@ -23,7 +23,7 @@
 
 音频编辑:
 
-- Bilibili [战狼联萌_Channel](https://space.bilibili.com/7190402)
+- Bilibili [战狼联萌_Channel (BattleWoLFz)](https://space.bilibili.com/7190402)
 - Bilibili [AmCh](https://space.bilibili.com/561522)
 - Bilibili [时之雨_Official](https://space.bilibili.com/12343920)
 - Bilibili [Mzyd](https://space.bilibili.com/4288592)
