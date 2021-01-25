@@ -3,17 +3,17 @@
 ![Last Commit](https://img.shields.io/github/last-commit/BattleWoLFz99/artia.moe)
 ![Stars](https://img.shields.io/github/stars/BattleWoLFz99/artia.moe)
 
-> 全新的阿媂娅按钮
-由 最后的大冰渣子组 制作
+> 全新的阿媂娅按钮<br/>
+由 最后的大冰渣子组 制作<br/>
 主页: https://artia.moe
 
-Artia (Mar.06.2020-Nov.19.2020):
-A majestic ice elementalist such as myself has graced your world with hiere presence
-A smile in the winter frost
-Mirror's a maiden's beauty
-Frozen for long millennia
-Waiting for my time with thee
-And thou, are thou ready now
+Artia (Mar.06.2020-Nov.19.2020):<br/>
+A majestic ice elementalist such as myself has graced your world with hiere presence,<br/>
+A smile in the winter frost,<br/>
+Mirror's a maiden's beauty,<br/>
+Frozen for long millennia,<br/>
+Waiting for my time with thee,<br/>
+And thou, are thou ready now<br/>
 
 链接:
 

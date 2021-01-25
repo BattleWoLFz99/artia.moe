@@ -91,3 +91,4 @@ sw.*
 *.swp
 
 .vercel
+dist.zip

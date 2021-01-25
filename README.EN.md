@@ -3,18 +3,18 @@
 ![Last Commit](https://img.shields.io/github/last-commit/BattleWoLFz99/artia.moe)
 ![Stars](https://img.shields.io/github/stars/BattleWoLFz99/artia.moe)
 
-> Brand new voice buttons for VTuber Artia
-Project Homepage: https://artia.moe
+> Brand new voice buttons for VTuber Artia <br/>
+Project Homepage: https://artia.moe<br/>
 ArtiaBDZ presents.
 
 
-Artia (Mar.06.2020-Nov.19.2020):
-A majestic ice elementalist such as myself has graced your world with hiere presence
-A smile in the winter frost
-Mirror's a maiden's beauty
-Frozen for long millennia
-Waiting for my time with thee
-And thou, are thou ready now
+Artia (Mar.06.2020-Nov.19.2020):<br/>
+A majestic ice elementalist such as myself has graced your world with hiere presence<br/>
+A smile in the winter frost<br/>
+Mirror's a maiden's beauty<br/>
+Frozen for long millennia<br/>
+Waiting for my time with thee<br/>
+And thou, are thou ready now<br/>
 
 
 Related Links:
