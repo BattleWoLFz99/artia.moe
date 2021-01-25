@@ -59,16 +59,6 @@
       </v-btn>
     </v-speed-dial>
     <v-flex xs12 sm8 md6>
-      <!-- 直播面板 -->
-      <v-card :loading="lives_loading">
-        <v-card-title>
-          <v-icon class="primary--text" :class="dark_text" style="margin-right: 8px">
-            {{ icons.clock_outline }}
-          </v-icon>
-          {{ $t('live.activity') }}
-        </v-card-title>
-        <div class="notification-board" v-html="$md.render($t('live.notification'))"></div>
-      </v-card>
       <!-- 对每个按钮组生成一个Card -->
       <v-card v-for="group in groups" :key="group.name">
         <v-card-title class="headline" :class="dark_text">
