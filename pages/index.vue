@@ -62,7 +62,7 @@
       <!-- 直播面板 -->
       <v-card :loading="lives_loading">
         <v-card-title>
-          <v-icon class="primary--text" :class="dark_text" style="margin-right: 8px;">
+          <v-icon class="primary--text" :class="dark_text" style="margin-right: 8px">
             {{ icons.clock_outline }}
           </v-icon>
           {{ $t('live.activity') }}

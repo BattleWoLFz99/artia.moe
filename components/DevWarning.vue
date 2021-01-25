@@ -12,9 +12,7 @@
         <v-btn text @click="return_to_official()">
           {{ $t('dev.to_stable') }}
         </v-btn>
-        <v-btn text @click="dialog = false">
-          OK
-        </v-btn>
+        <v-btn text @click="dialog = false"> OK </v-btn>
       </v-card-actions>
     </v-card>
   </v-dialog>

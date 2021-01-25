@@ -14,7 +14,7 @@
           '--start-percent': progress - 5 + '%'
         }"
       >
-        <div style="z-index: 2;">
+        <div style="z-index: 2">
           <slot class="slot"></slot>
         </div>
       </v-btn>

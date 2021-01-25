@@ -10,7 +10,7 @@
         />
       </template>
       -->
-      <v-list style="padding-top: 0;">
+      <v-list style="padding-top: 0">
         <v-list-item to="/" router exact dense>
           <v-list-item-action>
             <v-icon>{{ icons.apps }}</v-icon>
@@ -30,7 +30,7 @@
           dense
         >
           <v-list-item-action>
-            <v-img :src="item.icon" style="width: 24px;" />
+            <v-img :src="item.icon" style="width: 24px" />
           </v-list-item-action>
           <v-list-item-content>
             <v-list-item-title v-text="item.title" />
@@ -85,7 +85,7 @@
     >
       <v-app-bar-nav-icon class="white--text" @click.stop="drawer = !drawer" />
       <v-toolbar-title v-text="$t('site.title') + '(^・ω・^§)ﾉ'" />
-      <v-img src="/img/oruyanke_transparent.png" style="max-width: 24px; margin-left: 6px;" />
+      <v-img src="/img/oruyanke_transparent.png" style="max-width: 24px; margin-left: 6px" />
       <v-spacer />
       <v-tooltip bottom>
         <template v-slot:activator="{ on }">
@@ -127,7 +127,7 @@
       </v-container>
       <v-footer :fixed="false" class="footer">
         <div>
-          <div style="vertical-align: middle;">
+          <div style="vertical-align: middle">
             <span>&copy; {{ new Date().getFullYear() }} </span>
             <span>
               <a href="https://github.com/BattleWoLFz99" target="_blank" rel="noreferrer">
@@ -144,7 +144,7 @@
               icon
               href="https://github.com/BattleWoLFz99/artia.moe"
               target="_blank"
-              style="vertical-align: middle;"
+              style="vertical-align: middle"
               rel="noreferrer"
             >
               <v-icon>{{ icons.github }}</v-icon>
@@ -158,7 +158,7 @@
           </div>
           <div>
             <p>{{ $t('site.footer.content') }}</p>
-            <p v-if="$i18n.locale === 'zh'" style="font-size: 12px;">
+            <p v-if="$i18n.locale === 'zh'" style="font-size: 12px">
               <a href="https://icp.gov.moe" target="_blank" rel="noreferrer">萌ICP备 </a>
               <a href="https://icp.gov.moe/?keyword=20201211" target="_blank" rel="noreferrer"> 20201211号</a>
             </p>
